@@ -2,6 +2,18 @@
 
 BoneNetV2 is a custom deep learning architecture that classifies bone fractures from X-ray images into 10 categories with **99.12% accuracy in 20 epochs**, outperforming all benchmarked transfer learning models.
 
+## Screenshots
+
+### Upload Page
+![Upload Page](screenshots/Frontend1.png)
+
+### Result Page
+![Result Page](screenshots/Frontend2.png)
+![Result Page](screenshots/Frontend3.png)
+
+### Backend Page
+![Backend Page](screenshots/Backend.png)
+
 ## Project Structure
 ```
 bonenet/
